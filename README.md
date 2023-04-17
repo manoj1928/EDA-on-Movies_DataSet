@@ -1,2 +1,2 @@
-# EDA Movies_DataSet
+# Movies_DataSet
 This is a EDA on Movie Dataset
