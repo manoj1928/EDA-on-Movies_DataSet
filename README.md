@@ -7,3 +7,4 @@ Statistical summaries, such as mean, median, mode, and standard deviation, can b
 
 Overall, EDA is a crucial step in the data analysis process as it allows analysts to gain a deeper understanding of the data and to identify potential issues or opportunities that may guide further analysis..
 
+![image.png](image/banner.png)<br><br>
