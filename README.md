@@ -10,8 +10,12 @@
 
 Overall, EDA is a crucial step in the data analysis process as it allows analysts to gain a deeper understanding of the data and to identify potential issues or opportunities that may guide further analysis.
 
+## Repository Overview
+This repository is about different Machine Learning algorithm approaches as per the industry practices.
+
 ## Table of Contents
 - Used Car DataSet
 
+___
 
 
