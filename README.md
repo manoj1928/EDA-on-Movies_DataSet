@@ -14,7 +14,7 @@ Overall, EDA is a crucial step in the data analysis process as it allows analyst
 This repository is about different Machine Learning algorithm approaches as per the industry practices.
 
 ## Table of Contents
-- [- Used Car DataSet](https://github.com/manoj1928/Exploratory-Data-Analysis-with-Python/tree/main/UsedCar-project "- Used Car DataSet")
+- 
 
 ___
 
