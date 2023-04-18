@@ -9,13 +9,6 @@
 - Any additional analysis or exploratory work performed on the dataset, such as machine learning models or clustering algorithms.
 - A license for the dataset, if applicable, to ensure that others can use and modify the data in accordance with any legal requirements or restrictions.
 
-# Methodolgies involved
-- **Data cleaning and preparation**: This involved identifying and dealing with missing values, removing duplicates, and correcting data types to ensure that the data was ready for analysis.
-
-- **Descriptive statistics**: This involved summarizing and describing key variables in the dataset, such as budget, revenue, rating, and runtime, as well as identifying the most common genres and production companies.
-
-- **Data visualization**: This involved creating visual representations of the data, such as histograms, scatterplots, and bar charts, to identify patterns and trends in the data and to communicate findings to others.
-
 # Problem Statement
 
 ------------
@@ -27,3 +20,13 @@
 - Determine the optimal runtime for a successful movie.
 - Identify any patterns or trends in the movie industry over time.
 - Use the data to inform business decisions, such as which movies to invest in or how to market them to a particular audience.
+
+# Methodolgies involved
+
+------------
+
+- **Data cleaning and preparation**: This involved identifying and dealing with missing values, removing duplicates, and correcting data types to ensure that the data was ready for analysis.
+
+- **Descriptive statistics**: This involved summarizing and describing key variables in the dataset, such as budget, revenue, rating, and runtime, as well as identifying the most common genres and production companies.
+
+- **Data visualization**: This involved creating visual representations of the data, such as histograms, scatterplots, and bar charts, to identify patterns and trends in the data and to communicate findings to others.
