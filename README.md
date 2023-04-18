@@ -8,7 +8,10 @@
 
 - Statistical summaries, such as mean, median, mode, and standard deviation, can be used to summarize the central tendency and variability of the data. Data cleaning is also an essential step in EDA, as it involves identifying and correcting errors, missing values, and inconsistencies in the dataset.
 
-Overall, EDA is a crucial step in the data analysis process as it allows analysts to gain a deeper understanding of the data and to identify potential issues or opportunities that may guide further analysis..
+Overall, EDA is a crucial step in the data analysis process as it allows analysts to gain a deeper understanding of the data and to identify potential issues or opportunities that may guide further analysis.
+
+## Table of Contents
+- Used Car DataSet
 
 
 
