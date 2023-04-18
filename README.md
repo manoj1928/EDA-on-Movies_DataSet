@@ -17,5 +17,5 @@ This repository is about different Machine Learning algorithm approaches as per 
 - 
 
 ___
-
+- [1000 Movies Dataset](https://github.com/manoj1928/Exploratory-Data-Analysis-with-Python/tree/main/1000MovieDataSet-project "1000 Movies Dataset")
 
