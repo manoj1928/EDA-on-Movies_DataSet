@@ -47,8 +47,9 @@
 
 In cases where the data is imbalanced, it is important to carefully consider the potential impact of this imbalance on any analysis or conclusions drawn from the data. Additionally, techniques such as oversampling or undersampling can be used to balance the data and improve the accuracy of any analysis or models.
 
-## # What would you do
+# What would you do
 
+------------
 
 - Identify the degree of imbalance in the data by analyzing the distribution of classes or categories in the dataset.
 - Evaluate the impact of the imbalance on any analysis or models that will be applied to the dataset.
@@ -59,3 +60,13 @@ In cases where the data is imbalanced, it is important to carefully consider the
 - Document the methods used and the results obtained, and communicate the findings to stakeholders and other members of the team.
 
 Overall, it is important to carefully analyze the data and choose the most appropriate technique for the specific problem at hand, and to document the methods used and the results obtained to ensure reproducibility and transparency in the analysis.
+
+# Actionable Insights
+
+------------
+
+- The dataset contains information on 1000 movies released between 2006 and 2016, including data on their budgets, revenues, ratings, and other variables.
+- The data required some cleaning and preparation before analysis, including dealing with missing values, removing duplicates, and correcting data types.
+- Descriptive statistics revealed that there is a wide range of budgets, revenues, and ratings for movies in the dataset, and that drama is the most common genre.
+- Measures of central tendency revealed typical or average values for key variables, including budget, revenue, rating, and runtime.
+- Actionable insights based on the analysis include exploring the relationship between budget and revenue, analyzing factors that contribute to a movie's rating and revenue, and identifying trends and insights related to genres and production companies.
