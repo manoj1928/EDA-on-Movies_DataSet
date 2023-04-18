@@ -1,5 +1,7 @@
 # 1000 Movies Dataset
 
+------------
+
 [![movie](https://raw.githubusercontent.com/manoj1928/Exploratory-Data-Analysis-with-Python/main/1000MovieDataSet-project/Image/movie.jpg "movie")](https://raw.githubusercontent.com/manoj1928/Exploratory-Data-Analysis-with-Python/main/1000MovieDataSet-project/Image/movie.jpg "movie")
 
 - A brief overview of the dataset, including the source and description of the data.
